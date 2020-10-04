@@ -2,23 +2,28 @@
 
 ## Project setup
 ```
-yarn install
+npm install
 ```
 
-### Compiles and hot-reloads for development
+Compiles and hot-reloads for development
+
 ```
-yarn serve
+npm run serve
 ```
 
-### Compiles and minifies for production
+Compiles and minifies for production
+
 ```
-yarn build
+npm build
 ```
 
-### Lints and fixes files
-```
-yarn lint
-```
+### Links Reference
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[Vuetify Document](https://vuetify.cn/en/components/calendars/)
+
+[Firebase](https://console.firebase.google.com/)
+
+## Preview
+
+![pre.png](https://i.loli.net/2020/10/04/HtzDVnSB8UxfQei.png)
+
